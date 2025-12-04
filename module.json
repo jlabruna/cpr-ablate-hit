@@ -9,7 +9,7 @@
         "discord": "tummai#2442"
       }
     ],
-    "id": "cypr-armor-ablates-on-hit",
+    "id": "cpr-ablates-on-hit",
     "esmodules": ["scripts/main.js"],
     "languages": [
       {
@@ -32,12 +32,13 @@
     "compatibility": {
       "minimum": "11",
       "verified": "11",
-      "maximum": "12"
+      "maximum": "13"
     },
     "url": "https://github.com/jlabruna/cpr-ablate-hit",
     "manifest": "https://github.com/jlabruna/cpr-ablate-hit/releases/latest/download/module.json",
     "download": "https://github.com/jlabruna/cpr-ablate-hit/releases/latest/download/module.zip"
 }
+
 
 
 
